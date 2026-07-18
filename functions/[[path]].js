@@ -1,6 +1,6 @@
 // ==================== CONFIG ====================
 const UPSTREAM_PRIMARY = 'https://zg99qyoerl.cloudflare-gateway.com/dns-query';
-const UPSTREAM_FALLBACK = 'https://rhpcv957tj.cloudflare-gateway.com/dns-query';
+const UPSTREAM_FALLBACK = 'https://dns.nextdns.io/31bb22';
 const UPSTREAM_GEO_BYPASS = 'https://dns.mullvad.net/dns-query'; // Re-resolve without ECS when geo-block returns loopback
 const UPSTREAM_TIMEOUT = 5000;
 
