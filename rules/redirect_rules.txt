@@ -32,4 +32,3 @@ medium.com rocket.net
 # Shopee
 
 # voz.vn
-voz.vn rocket.net
