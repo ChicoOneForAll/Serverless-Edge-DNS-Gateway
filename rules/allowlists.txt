@@ -623,6 +623,7 @@ ota.lenovo.com
 firebaseinstallations.googleapis.com
 firestore.googleapis.com
 storeedge.microsoft.com
+opt.scheels.com
 unifi-kms.svc.ui.com
 ping.ui.com
 global.events.live-video.net
