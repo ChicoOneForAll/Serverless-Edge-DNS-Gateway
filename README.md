@@ -60,7 +60,7 @@ The parameters below are pre-configured with optimal defaults.
 | :--- | :--- | :--- |
 | `UPSTREAM_PRIMARY` | Cloudflare Gateway | Main resolver URL. |
 | `UPSTREAM_FALLBACK` | Cloudflare Gateway | Backup resolver. |
-| `UPSTREAM_GEO_BYPASS`| `dns.mullvad.net` | Used when upstream returns loopback (127.0.0.1). |
+| `UPSTREAM_GEO_BYPASS`| `dns.quad9.net` | Used when upstream returns loopback (127.0.0.1). |
 
 ### Edge Filtering (Optimization)
 | Constant | Default | Description |
